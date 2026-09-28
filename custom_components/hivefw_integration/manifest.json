@@ -1,0 +1,10 @@
+{
+  "domain": "hivefw_integration",
+  "name": "HiveFW",
+  "version": "1.20.06",
+  "documentation": "https://github.com/fcguerr/hf-dist",
+  "issue_tracker": "https://github.com/fcguerr/hf-dist/issues",
+  "codeowners": [
+    "@fcguerr"
+  ]
+}
